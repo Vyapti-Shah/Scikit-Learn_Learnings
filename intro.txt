@@ -1,0 +1,3 @@
+Scikit-Learn
+Machine learning library in python is scikit-learn
+Built upon numpy,sciPy and matplotlib 
